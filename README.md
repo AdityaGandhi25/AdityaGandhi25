@@ -7,10 +7,10 @@
 <h3>Third Year CSE Core Student focused on Data Analytics, Machine Learning, and deriving actionable insights from complex datasets.</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/aditya-gandhi/">
+  <a href="https://www.linkedin.com/in/adityagandhi25042006/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adityagandhi@example.com">
+  <a href="mailto:adityauser25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -148,17 +148,57 @@ These projects showcase my approach to working with data: from cleaning and prep
 
 <div align="center">
 
-<img src="./assets/activity-graph.svg" alt="GitHub activity graph" width="100%" />
+<picture>
+<source 
+  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light" alt="GitHub activity graph" width="100%" />
+</picture>
 
 <br />
 
 <p>
-  <img src="./assets/github-stats.svg" alt="GitHub stats" height="170" />
-  <img src="./assets/github-streak.svg" alt="GitHub streak" height="170" />
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true" alt="GitHub stats" height="170" />
+  </picture>
+  <picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=AdityaGandhi25&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25" alt="GitHub streak" height="170" />
+  </picture>
 </p>
 
 <p>
-  <img src="./assets/top-langs.svg" alt="Top languages" height="170" />
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact" alt="Top languages" height="170" />
+  </picture>
 </p>
 
 </div>
@@ -171,7 +211,7 @@ These projects showcase my approach to working with data: from cleaning and prep
 
 <br />
 
-<a href="https://www.linkedin.com/in/aditya-gandhi/">LinkedIn</a> |
-<a href="mailto:adityagandhi@example.com">Email</a>
+<a href="https://www.linkedin.com/in/adityagandhi25042006/">LinkedIn</a> |
+<a href="mailto:adityauser25@gmail.com">Email</a>
 
 </div>
