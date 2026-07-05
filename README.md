@@ -157,7 +157,7 @@ These projects showcase my approach to working with data: from cleaning and prep
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25&ring=FF9900&fire=FF9900&currStreakLabel=FF9900"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub streak" height="165" />
   </picture>
   <picture>
   <source 
@@ -168,7 +168,7 @@ These projects showcase my approach to working with data: from cleaning and prep
     srcset="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900" alt="GitHub stats" height="165" />
   </picture>
 
 <p>
