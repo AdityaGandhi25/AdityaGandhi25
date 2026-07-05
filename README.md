@@ -148,32 +148,7 @@ These projects showcase my approach to working with data: from cleaning and prep
 
 <div align="center">
 
-<picture>
-<source 
-  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-dark&color=FF9900&line=FF9900"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light&color=FF9900&line=FF9900"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light&color=FF9900&line=FF9900" alt="GitHub activity graph" width="100%" />
-</picture>
-
-<br />
-
 <p>
-  <picture>
-  <source 
-    srcset="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900" alt="GitHub stats" height="170" />
-  </picture>
   <picture>
   <source 
     srcset="https://github-readme-streak-stats.herokuapp.com?user=AdityaGandhi25&theme=dark&ring=FF9900&fire=FF9900&currStreakLabel=FF9900"
@@ -184,6 +159,17 @@ These projects showcase my approach to working with data: from cleaning and prep
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub streak" height="170" />
+  </picture>
+  <picture>
+  <source 
+    srcset="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&title_color=FF9900&icon_color=FF9900" alt="GitHub stats" height="170" />
   </picture>
 </p>
 
@@ -200,6 +186,18 @@ These projects showcase my approach to working with data: from cleaning and prep
   <img src="https://github-readme-stats-lyart-rho-48.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact&title_color=FF9900&icon_color=FF9900" alt="Top languages" height="170" />
   </picture>
 </p>
+
+<picture>
+<source 
+  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-dark&color=FF9900&line=FF9900"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light&color=FF9900&line=FF9900"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light&color=FF9900&line=FF9900" alt="GitHub activity graph" width="100%" />
+</picture>
 
 </div>
 
