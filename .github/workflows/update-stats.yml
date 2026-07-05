@@ -20,7 +20,7 @@ jobs:
 
       - name: Fetch General Stats (with count_private)
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_radius=6&count_private=true" -o temp_stats.svg
+          curl -s "https://github-readme-stats-lyart-rho-48.vercel.app/api?username=AdityaGandhi25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_radius=6&count_private=true" -o temp_stats.svg
           if grep -q "<svg" temp_stats.svg; then mv temp_stats.svg assets/github-stats.svg; fi
 
       - name: Fetch Streak Stats
@@ -35,7 +35,7 @@ jobs:
 
       - name: Fetch Top Languages
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_radius=6" -o temp_langs.svg
+          curl -s "https://github-readme-stats-lyart-rho-48.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_radius=6" -o temp_langs.svg
           if grep -q "<svg" temp_langs.svg; then mv temp_langs.svg assets/top-langs.svg; fi
 
       - name: Sanitize SVGs (Remove leading whitespace)
