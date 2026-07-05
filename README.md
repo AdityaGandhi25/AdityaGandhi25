@@ -149,55 +149,23 @@ These projects showcase my approach to working with data: from cleaning and prep
 <div align="center">
 
 <picture>
-<source 
-  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGandhi25&theme=github-light" alt="GitHub activity graph" width="100%" />
+<img src="./assets/activity-graph.svg" alt="GitHub activity graph" width="100%" />
 </picture>
 
 <br />
 
 <p>
   <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGandhi25&show_icons=true" alt="GitHub stats" height="170" />
+  <img src="./assets/github-stats.svg" alt="GitHub stats" height="170" />
   </picture>
   <picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=AdityaGandhi25&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25" alt="GitHub streak" height="170" />
+  <img src="./assets/github-streak.svg" alt="GitHub streak" height="170" />
   </picture>
 </p>
 
 <p>
   <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGandhi25&layout=compact" alt="Top languages" height="170" />
+  <img src="./assets/top-langs.svg" alt="Top languages" height="170" />
   </picture>
 </p>
 
