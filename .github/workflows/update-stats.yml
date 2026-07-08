@@ -24,9 +24,11 @@ jobs:
           if grep -q "<svg" temp_stats.svg; then mv temp_stats.svg assets/github-stats.svg; fi
 
       - name: Fetch Streak Stats
-        run: |
-          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=AdityaGandhi25&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakNum=ffffff&currStreakLabel=FF9900&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=6" -o temp_streak.svg
-          if grep -q "<svg" temp_streak.svg; then mv temp_streak.svg assets/github-streak.svg; fi
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          token: ${{ secrets.GH_PAT }}
+          options: "user=AdityaGandhi25&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakNum=ffffff&currStreakLabel=FF9900&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=6"
+          path: assets/github-streak.svg
 
       - name: Fetch Activity Graph
         run: |
