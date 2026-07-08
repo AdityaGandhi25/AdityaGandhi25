@@ -150,14 +150,14 @@ These projects showcase my approach to working with data: from cleaning and prep
 
   <picture>
   <source 
-    srcset="assets/github-streak.svg?v=2"
+    srcset="assets/github-streak-orange.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="assets/github-streak.svg?v=2"
+    srcset="assets/github-streak-orange.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="assets/github-streak.svg?v=2" alt="GitHub streak" height="165" />
+  <img src="assets/github-streak-orange.svg" alt="GitHub streak" height="165" />
   </picture>
   <picture>
   <source 
