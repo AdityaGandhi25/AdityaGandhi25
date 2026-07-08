@@ -150,51 +150,51 @@ These projects showcase my approach to working with data: from cleaning and prep
 
   <picture>
   <source 
-    srcset="assets/github-streak.svg?v=1"
+    srcset="assets/github-streak.svg?v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="assets/github-streak.svg?v=1"
+    srcset="assets/github-streak.svg?v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="assets/github-streak.svg?v=1" alt="GitHub streak" height="165" />
+  <img src="assets/github-streak.svg?v=2" alt="GitHub streak" height="165" />
   </picture>
   <picture>
   <source 
-    srcset="assets/github-stats.svg?v=1"
+    srcset="assets/github-stats.svg?v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="assets/github-stats.svg?v=1"
+    srcset="assets/github-stats.svg?v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="assets/github-stats.svg?v=1" alt="GitHub stats" height="165" />
+  <img src="assets/github-stats.svg?v=2" alt="GitHub stats" height="165" />
   </picture>
 
 <p>
   <picture>
   <source 
-    srcset="assets/top-langs.svg?v=1"
+    srcset="assets/top-langs.svg?v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="assets/top-langs.svg?v=1"
+    srcset="assets/top-langs.svg?v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="assets/top-langs.svg?v=1" alt="Top languages" height="170" />
+  <img src="assets/top-langs.svg?v=2" alt="Top languages" height="170" />
   </picture>
 </p>
 
 <picture>
 <source 
-  srcset="assets/activity-graph.svg?v=1"
+  srcset="assets/activity-graph.svg?v=2"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="assets/activity-graph.svg?v=1"
+  srcset="assets/activity-graph.svg?v=2"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="assets/activity-graph.svg?v=1" alt="GitHub activity graph" width="100%" />
+<img src="assets/activity-graph.svg?v=2" alt="GitHub activity graph" width="100%" />
 </picture>
 
 </div>
