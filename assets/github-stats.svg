@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aditya Gandhi's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 28, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 28, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -72,7 +72,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 225.6930100781285;
+        stroke-dashoffset: 224.42598339791485;
       }
     }
   
@@ -161,7 +161,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >7</text>
+      >8</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
